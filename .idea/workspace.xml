@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c8de8c3-fe1d-49b3-bde9-f1dbebb39d84" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter_4_exercises.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_3_exercises.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_3_exercises.py" afterDir="false" />
-    </list>
+    <list default="true" id="9c8de8c3-fe1d-49b3-bde9-f1dbebb39d84" name="Changes" comment="Adding chapter 4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +72,19 @@
       <option name="presentableId" value="Default" />
       <updated>1755734681615</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding chapter 4">
+      <option name="closed" value="true" />
+      <created>1755972574025</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755972574025</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding chapter 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding chapter 4" />
   </component>
 </project>
