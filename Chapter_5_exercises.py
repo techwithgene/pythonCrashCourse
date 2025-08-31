@@ -45,13 +45,13 @@ if 'berry' in my_favorite_fruits:
     print("Wow I love berries!")
 
 # my version
-# my_favorite_fruits = ['apple', 'orange', 'banana']
-# user_fruit = input('What is your favorite fruit?\n').lower()
-#
-# if user_fruit in my_favorite_fruits:
-#     print(f'Me too, I would love an {user_fruit}.')
-# else:
-#     print("I don't like that fruit.")
+my_favorite_fruits = ['apple', 'orange', 'banana']
+user_fruit = input('What is your favorite fruit?\n').lower()
+
+if user_fruit in my_favorite_fruits:
+    print(f'Me too, I would love an {user_fruit}.')
+else:
+    print("I don't like that fruit.")
 
 #usernames = ['admin', 'abe', 'bac', 'cad', 'dae']
 usernames = []
