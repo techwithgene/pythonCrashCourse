@@ -127,7 +127,32 @@ Kaiser = {
 pets = [Bud, Doge, Kaiser]
 
 for pet in pets:
-    print(f"\nInformation for all the pets:\n{pet["name"]}")
+    print(f"\nInformation for all the pets:")
     for key, value in pet.items():
         print(f"{key.title()}: {value}")
+
+cities = {
+    "Istanbul": {
+        "country": "Turkey",
+        "population": "a lot",
+        "fact": "It was once called Constantinople"
+    },
+    "Tokyo": {
+        "country": "Japan",
+        "population": "a lot",
+        "fact": "It is the home of the Shiba Inu"
+    },
+    "London": {
+        "country": "United Kingdom",
+        "population": "a lot",
+        "fact": "Cookies are called biscuits"
+    }
+}
+
+for city, value in cities.items():
+    print(f"\nHere is info about {city}:")
+    print(f"It is located in {value["country"]}.")
+    print(f"Its population is {value["population"]}.")
+    print(f"{value["fact"]}.")
+
 
