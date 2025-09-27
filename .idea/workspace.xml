@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c8de8c3-fe1d-49b3-bde9-f1dbebb39d84" name="Changes" comment="Adding chapter 4">
+      <change afterPath="$PROJECT_DIR$/Chapter_8_exercises.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_7_exercises.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_7_exercises.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +53,7 @@
     "Python.Chapter_5_exercises.executor": "Run",
     "Python.Chapter_6_exercises.executor": "Run",
     "Python.Chapter_7_exercises.executor": "Run",
+    "Python.Chapter_8_exercises.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -152,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757880782767</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Adding chapter 4">
+      <option name="closed" value="true" />
+      <created>1758500472412</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1758500472412</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
